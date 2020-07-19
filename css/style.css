@@ -39,14 +39,14 @@ li {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
-  color: var(--title-text-color)
+  color: var(--title-text-color);
   cursor: pointer;
   text-decoration: none;
 }
 
 .link:hover:not(.link-wrapper),
-.link:active:not (.link-wrapper),
-.link:focus:not (.link-wrapper) {
+.link:active:not(.link-wrapper),
+.link:focus:not(.link-wrapper) {
   color: var(--accent-color);
 }
 
@@ -144,4 +144,17 @@ text-transform: uppercase;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--primary-white-color);
+}
+.img-work{
+
+width: 370px;
+height: 294px;
+}
+.img-photo{
+  width: 270px;
+height: 260px;
+}
+.img-project{
+  width: 370px;
+height: 294px;
 }
