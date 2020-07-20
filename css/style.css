@@ -145,16 +145,3 @@ text-transform: uppercase;
   text-transform: uppercase;
   color: var(--primary-white-color);
 }
-.img-work{
-
-width: 370px;
-height: 294px;
-}
-.img-photo{
-  width: 270px;
-height: 260px;
-}
-.img-project{
-  width: 370px;
-height: 294px;
-}
