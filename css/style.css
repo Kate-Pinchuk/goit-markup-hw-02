@@ -8,12 +8,12 @@
 :root {
   --primary-text-color: #757575;
   --title-text-color: #212121;
-  --accent-color: #2196F3;
+  --accent-color: #2196f3;
   --primary-white-color: #ffffff;
 }
 
 body {
-  font-family: Roboto,sans-serif;
+  font-family: Roboto, sans-serif;
   background-color: rgba(128, 128, 128, 0.45);
   font-style: normal;
 }
@@ -21,6 +21,7 @@ body {
 li {
   list-style-type: none;
 }
+
 .logo {
   font-family: Raleway;
   font-weight: bold;
@@ -60,7 +61,6 @@ li {
   font-weight: normal;
 }
 
-}
 .hero-title {
   font-weight: 900;
   font-size: 44px;
@@ -80,7 +80,6 @@ li {
   color: #ffffff;
   background: var(--accent-color);
   cursor: pointer;
-
   border-radius: 4px;
 }
 .btn-secondary {
@@ -97,15 +96,14 @@ li {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
-  
 }
 
-.title-bigger{
+.title-bigger {
   font-size: 16px;
   line-height: 19px;
 }
-.title-upper{
-text-transform: uppercase;
+.title-upper {
+  text-transform: uppercase;
 }
 .text {
   font-weight: normal;
